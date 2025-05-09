@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  min-height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(11, 94, 69);
+  font-family: 'Times New Roman', Times, serif;
+
+ 
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.head{
+  color: black;
+
+}
+
+.product_img{
+  object-fit: contain;
+  width: 100%;
+  height: 200px;
+}
+.products{
+  text-align: center;
+  text-decoration: double;
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.footer{
+
+  background-color: rgb(11, 94, 69);
+  color: black;
+  text-align: center;
+  min-height: 5vh;
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif;
+
+}
+.footers{
+
+  background-color: rgb(11, 94, 69);
+  color: white;
+  text-align: center;
+  min-height: 5vh;
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif;
+  margin-top: 25lvh;
+}
+.about{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 35px;
+  font-weight: 900;
+}
+.navy{
+  color:wh;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+.abouts{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font: size 29px;}
+.abouty{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+  font-weight: 900;
+  
+ }
+ .reach{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+ }
